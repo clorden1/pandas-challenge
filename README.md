@@ -5,7 +5,7 @@ Pandas Challenge
 
 This script takes data from two csv's: "schools_complet.csv" and "students_complete.csv", and generates a series of summary tables to analyze the data. The goal of the analyis is to measure school/student performance based on multiple factors.
 
-The code and analysis of the data is located in the file "PyCitySchools_analysis.ipynb" inside the "PyCitySchools" folder. The csv's are located within the "Resources" folder.
+The code and analysis of the data is located in the file "PyCitySchools_analysis.ipynb" inside the "PyCitySchools" folder. The csv's are located within the "Resources" folder. The Python code was written using Jupyter Notebook
 
 ### References
 
