@@ -15,7 +15,7 @@ This code was written by me, Connor Lorden, with help from the following sources
     This source was used in formatting all markdown cells in "PyCitySchools_analysis.ipynb" and this README
 
 - **#2** https://pandas.pydata.org/docs/reference/api/pandas.concat.html
-    This sources wasz used to join multiple tables into one to form cohesive summary tables
+    This sources was used to join multiple tables into one to form cohesive summary tables
 
 - Structure and organization of the "PyCitySchools_analysis.ipynb" file was formatted based on the starter code provided with this assignment.
 
